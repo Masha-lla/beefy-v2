@@ -1,0 +1,58 @@
+[
+  {
+    "name": "AERO.svg",
+    "before": 482779,
+    "after": 316814,
+    "savingPercent": 34.4,
+    "renderMAE": 0
+  },
+  {
+    "name": "NORMUS.png",
+    "before": 65799,
+    "after": 20615,
+    "savingPercent": 68.7,
+    "renderMAE": 4.458
+  },
+  {
+    "name": "PEARL.png",
+    "before": 35844,
+    "after": 14862,
+    "savingPercent": 58.5,
+    "renderMAE": 1.92
+  },
+  {
+    "name": "RETRO.svg",
+    "before": 133377,
+    "after": 96907,
+    "savingPercent": 27.3,
+    "renderMAE": 0
+  },
+  {
+    "name": "crvUSDBTCETH3.svg",
+    "before": 147658,
+    "after": 128374,
+    "savingPercent": 13.1,
+    "renderMAE": 0
+  },
+  {
+    "name": "hETH.png",
+    "before": 405062,
+    "after": 14582,
+    "savingPercent": 96.4,
+    "renderMAE": 2.147
+  },
+  {
+    "name": "oRETRO.svg",
+    "before": 133377,
+    "after": 96907,
+    "savingPercent": 27.3,
+    "renderMAE": 0
+  },
+  {
+    "name": "weETH.svg",
+    "before": 94236,
+    "after": 91984,
+    "savingPercent": 2.4,
+    "renderMAE": 0
+  }
+]
